@@ -1,1 +1,87 @@
-/* css styles */
+/* Light gray navbar/footer, white background, dark text */
+
+body {
+  background-color: #FFFFFF;
+  color: #333333;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #F0F0F0 !important;
+  border-bottom: 1px solid #DDDDDD;
+}
+
+.navbar > .container,
+.navbar > .container-fluid,
+.navbar > .container-xxl {
+  justify-content: center !important;
+  gap: 2rem;
+}
+
+.navbar-collapse {
+  flex-grow: 0 !important;
+}
+
+.navbar-brand,
+.navbar .nav-link {
+  color: #333333 !important;
+  font-size: 1.2rem !important;
+}
+
+.navbar-brand {
+  font-size: 1.8rem !important;
+  font-weight: 700 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.navbar .nav-link:hover {
+  color: #555555 !important;
+}
+
+/* About trestles - vertically center bio next to photo */
+.quarto-about-trestles {
+  display: flex !important;
+  align-items: center !important;
+}
+
+/* Links */
+a {
+  color: #333333;
+}
+
+a:hover {
+  color: #555555;
+}
+
+/* About / trestles sidebar links (scholar, linkedin, email buttons) */
+.about-links .about-link {
+  color: #333333 !important;
+  background-color: #F0F0F0 !important;
+  border-color: #DDDDDD !important;
+}
+
+.about-links .about-link:hover {
+  background-color: #E0E0E0 !important;
+  border-color: #CCCCCC !important;
+}
+
+/* Footer */
+.nav-footer {
+  background-color: #F0F0F0 !important;
+  color: #333333 !important;
+  border-top: 1px solid #DDDDDD;
+  justify-content: center !important;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+.nav-footer-left,
+.nav-footer-center,
+.nav-footer-right {
+  flex: unset !important;
+}
+
+.nav-footer a {
+  color: #333333 !important;
+}
