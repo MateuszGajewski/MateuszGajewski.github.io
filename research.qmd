@@ -1,0 +1,41 @@
+---
+title: "Research"
+toc: false
+---
+
+## Publications
+
+### 2026
+
+**Nonparametric Greedy Equivalence Search with Prior-Fitted Networks**
+Mateusz Gajewski, Mateusz Olko
+*5th Conference on Causal Learning and Reasoning (CLeaR 2026)*
+[<a href="../73_Nonparametric_Greedy_Equiva-8.pdf" download>paper</a>]
+
+### 2025
+
+**Accurate Estimation of Feature Importance Faithfulness for Tree Models**
+Mateusz Gajewski, Adam Karczmarz, Mateusz Rapicki, Piotr Sankowski
+*AAAI 2025*
+[[paper](https://doi.org/10.1609/aaai.v39i16.33834)] [[arXiv](https://arxiv.org/abs/2404.03426)]
+
+**Since Faithfulness Fails: The Performance Limits of Neural Causal Discovery**
+Mateusz Olko, Mateusz Gajewski, Joanna Wojciechowska, Mikołaj Morzy, Piotr Sankowski, Piotr Miłoś
+*ICML 2025*
+[[paper](https://proceedings.mlr.press/v267/olko25a.html)] [[arXiv](https://arxiv.org/abs/2502.16056)]
+
+---
+
+## Preprints
+
+**Data Augmentation via Causal-Residual Bootstrapping**
+Mateusz Gajewski, Sophia Xiao, Bijan Mazaheri
+[[arXiv](https://arxiv.org/abs/2603.15335)]
+
+**VARSHAP: Addressing Global Dependency Problems in Explainable AI with Variance-Based Local Feature Attribution**
+Mateusz Gajewski, Mikołaj Morzy, Adam Karczmarz, Piotr Sankowski
+[[arXiv](https://arxiv.org/abs/2506.07229)]
+
+**Amortized Causal Discovery with Prior-Fitted Networks**
+Mateusz Sypniewski, Mateusz Olko, Mateusz Gajewski, Piotr Miłoś
+[[arXiv](https://arxiv.org/abs/2512.11840)]
